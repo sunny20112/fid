@@ -77,5 +77,6 @@ body {
     text-align: center;
     font-style: italic;
   }
-  
-  
+  nav {
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+body {
+	margin: 2em 5%;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1, h2 {	
+	color: #399;}
+h1 {
+	font-size: 1.5em;
+	text-align: center;
+}
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1em;
+    text-align: center;
+}
+small {
+	color: #999;
+}
+p {
+    text-align: center;
+}
