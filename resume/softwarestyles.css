@@ -1,0 +1,47 @@
+body {
+    background: #9886c4;
+    margin: 0 10%;
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+    font: 3.5em "Bangers", Georgia, serif;
+    text-transform: uppercase;
+    border-bottom: 1px solid #250242;
+    margin-top: 30px;
+}
+h2 {
+    color: #250242;
+    font-size: 1em;
+    text-align: center;
+}
+footer {
+    border-top: 1px solid #250242;
+    text-align: center;
+    padding-top: 1em;
+    font: 1.5em "Bangers", Georgia, serif;
+}
+footer img {
+    width: 40px;
+    height: 40px;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+p {
+    text-align: center
+}
+a {
+    text-decoration: none;
+    color: #250242;
+  }
+  a:visited {
+    color: #250565;
+  }
+  a:focus, a:hover {
+    color: #6734eb;
+    background-color: #ffff;
+  }
+  a:active {
+    color: #6734eb;
+    background-color: #ffff;
+  }
