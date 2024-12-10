@@ -8,49 +8,49 @@ header {
     margin-top: 0;
     padding: 3em 1em 2em 1em;
     text-align: center;
-  }
+}
   
-  a {
+a {
     text-decoration: none;
     color: #25316D;
-  }
-  a:visited {
+}
+a:visited {
     color: #5F6F94;
-  }
-  a:focus, a:hover {
+}
+a:focus, a:hover {
     color: #37AFE1;
     background-color: #ffff;
-  }
-  a:active {
+}
+a:active {
     color: #37AFE1;
     background-color: #ffff;
-  }
+}
   
-  h1 {
+h1 {
     font: bold 1.5em Georgia, serif;
     text-shadow: .1em .1em .2em gray;
     color: #c60;
-  }
-  h2 {
+}
+h2 {
     font-size: 1em;
     text-transform: uppercase;
     letter-spacing: .5em;
     text-align: center;
     color: #c60;
-  }
-  ul {
+}
+ul {
       list-style-type: none;
       margin: 0;
       padding: 0;
-  }
-  h2 + p {
+}
+h2 + p {
     text-align: center;
-  }
-  .center {
+}
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-  }
+}
 .row {
     display: flex;
 }
@@ -117,7 +117,6 @@ padding-left:2%;
   padding: 0 15px;
   text-transform: uppercase;
 }
-
 #nav > li:hover > a, #nav > a:hover {
   background-color: #3A98B9;
   color: #ffff;
@@ -137,19 +136,18 @@ padding-left:2%;
   width:100%;
   padding-left:0;
 }
-  #nav ul.subs {
+ #nav ul.subs {
       position: relative;
       top: 0;
   }
-  #nav li:hover ul.subs {
+ #nav li:hover ul.subs {
       display: none;
   }
-  #nav li #s1:target + ul.subs,
-  #nav li #s2:target + ul.subs {
+#nav li #s1:target + ul.subs,
+#nav li #s2:target + ul.subs {
       display: block;
   }
-
-  #nav ul.subs > li {
+#nav ul.subs > li {
       display: block;
       width: auto;
   }
